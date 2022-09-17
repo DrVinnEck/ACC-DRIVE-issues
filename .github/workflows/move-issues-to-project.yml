@@ -13,6 +13,6 @@ jobs:
       - name: Create or Update Project Card
         uses: peter-evans/create-or-update-project-card@v2.0.0
         with:
-          project-number: 'https://github.com/users/DrVinnEck/projects/1'
+          project: 'https://github.com/users/DrVinnEck/projects/1'
           column-name: 'New'
         
