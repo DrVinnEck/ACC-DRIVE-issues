@@ -15,5 +15,5 @@ jobs:
 
         with:
           project-url: 'https://github.com/users/DrVinnEck/projects/1'
-          github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
+          github-token: ${{ secrets.DVE_GITHUB_TOKEN }}
         
